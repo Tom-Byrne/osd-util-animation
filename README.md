@@ -4,7 +4,7 @@
 
 ## Collect raw data
 
-you could use a simple cron to collecting the data:
+You could use a simple cron to collect df files
 
 ```
 # cat /etc/cron.d/ceph-osd-df.cron
